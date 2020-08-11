@@ -1,2 +1,2 @@
-# rect-bounce
-collision detection algorithm &amp; bounce off algorithm
+# p5.play-boilerplate
+Boiler plate for p5.play
